@@ -1,3 +1,7 @@
-# homework-Three
+# The-Perfect-Fit
 
-Browse Page has buttons now! Had to add home page due to the coding acting strange without it.
+# Description: A shoe company website to shop for many different shoe brands.
+
+# Link:
+
+https://andreagodsey.github.io/The-Perfect-Fit/
